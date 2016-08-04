@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".PackingListActivity">
+    <item android:id="@+id/delete_items" android:title="@string/delete_all_items"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
